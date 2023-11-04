@@ -1,4 +1,7 @@
 # Indian-Culture
+
+**Please note: This repository is now archived and will no longer be updated or maintained.**
+
  NIT Mizoram - Website/Mobile Application Development
 
 ## required latest version of npm i.e 8.12.2 
